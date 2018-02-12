@@ -1,4 +1,4 @@
-baseURL = "http://ZhengkaiWang.github.io"
+baseURL = "http://zkwang.me/blog"
 languageCode = "en"
 title = "K Blog"
 theme = "hugo-nuo"
