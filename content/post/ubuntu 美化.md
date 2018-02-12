@@ -96,7 +96,7 @@ gnome-tweak-tool
 - Windows-Double-click-选择为Minimize（同macOS工作环境统一）
 - Extensions-dash to dock-保证其开启 （此时桌面左侧原生dash被dock取代），点击设置按钮，按个人喜好调整（Botton、icon size32、Opacity60%）
 
-![Desktop](/static/image/ubuntu桌面美化/Setting.png)
+![Desktop](/image/ubuntu桌面美化/Setting.png)
 
 ## BINGO！ 大功告成
 
