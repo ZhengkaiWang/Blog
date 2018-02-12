@@ -7,14 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://zkwang.me/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
+      <title>ubuntu桌面美化</title>
       <link>http://zkwang.me/blog/post/ubuntu-%E7%BE%8E%E5%8C%96/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>http://zkwang.me/blog/post/ubuntu-%E7%BE%8E%E5%8C%96/</guid>
       <description>ubuntu桌面美化 序言 正如上篇文章（还没写出来）里所说，今年夏天我终于敲定了自己的生产环境 Mac+ubuntu@fusion+win@PD，mac作为主力生产环境，ubuntu作为运行和测试环境。但ubuntu默认界面有点丑了，所以做了简单的美化，美化的主体思路基本都是按B站卟嚟卟嚟这位up主【Linux】GNOME的简单美化视频 ,效果如图

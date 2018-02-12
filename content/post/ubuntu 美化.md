@@ -1,10 +1,14 @@
+---
+title: "ubuntu桌面美化"
+date: "2018-02-02"
+---
 # ubuntu桌面美化
 
 ## 序言
 
 正如上篇文章（还没写出来）里所说，今年夏天我终于敲定了自己的生产环境 Mac+ubuntu@fusion+win@PD，mac作为主力生产环境，ubuntu作为运行和测试环境。但ubuntu默认界面有点丑了，所以做了简单的美化，美化的主体思路基本都是按B站[卟嚟卟嚟](https://space.bilibili.com/3030024?spm_id_from=333.338.viewbox_report.7#/)这位up主[【Linux】GNOME的简单美化视频](https://www.bilibili.com/video/av10634328/) ,效果如图
 
-![Desktop](../../static/image/ubuntu桌面美化/Desktop.png)
+![Desktop](/static/image/ubuntu桌面美化/Desktop.png)
 
 一个美到窒息的工作环境真的是生产力源泉，每次上课的时候心思都会飞去虚拟机里写代码。
 
@@ -92,7 +96,7 @@ gnome-tweak-tool
 - Windows-Double-click-选择为Minimize（同macOS工作环境统一）
 - Extensions-dash to dock-保证其开启 （此时桌面左侧原生dash被dock取代），点击设置按钮，按个人喜好调整（Botton、icon size32、Opacity60%）
 
-![Desktop](../../static/image/ubuntu桌面美化/Setting.png)
+![Desktop](/static/image/ubuntu桌面美化/Setting.png)
 
 ## BINGO！ 大功告成
 
