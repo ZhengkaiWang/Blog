@@ -8,7 +8,7 @@ date: "2018-02-02"
 
 正如上篇文章（还没写出来）里所说，今年夏天我终于敲定了自己的生产环境 Mac+ubuntu@fusion+win@PD，mac作为主力生产环境，ubuntu作为运行和测试环境。但ubuntu默认界面有点丑了，所以做了简单的美化，美化的主体思路基本都是按B站[卟嚟卟嚟](https://space.bilibili.com/3030024?spm_id_from=333.338.viewbox_report.7#/)这位up主[【Linux】GNOME的简单美化视频](https://www.bilibili.com/video/av10634328/) ,效果如图
 
-![Desktop](/static/image/ubuntu桌面美化/Desktop.png)
+![Desktop](/image/ubuntu桌面美化/Desktop.png)
 
 一个美到窒息的工作环境真的是生产力源泉，每次上课的时候心思都会飞去虚拟机里写代码。
 
