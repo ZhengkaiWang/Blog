@@ -142,6 +142,20 @@
             <a href="http://zkwang.me/blog/tags/">Tags</a>
           </li>
       
+        <li class="menu-item
+            
+            
+            ">
+            <a href="http://zkwang.me/blog/links/">Links</a>
+          </li>
+      
+        <li class="menu-item
+            
+            
+            ">
+            <a href="http://zkwang.me/blog/about/">About</a>
+          </li>
+      
     </ul>
   </nav>
   <nav class="social-menu collapsed">
@@ -218,8 +232,27 @@
     </header>
     
     
-      <p>There's nothing here.<br>Create an interesting post with the command:</p>
-      <p><code>$ hugo new post/hello-world.md</code></p>
+      
+        <article class="post-entry">
+  <header class="post-header">
+    <h3 class="post-title"><a href="http://zkwang.me/blog/post/ubuntu-%E7%BE%8E%E5%8C%96/" class="post-link"></a></h3>
+    <p class="post-meta">@Zhengkai Wang · Jan 1, 0001 · 1 min read</p>
+  </header>
+  
+  <p class="post-summary">ubuntu桌面美化 序言 正如上篇文章（还没写出来）里所说，今年夏天我终于敲定了自己的生产环境 Mac&#43;ubuntu@fusion&#43;win@PD，mac作为主力生产环境，ubuntu作为运行和测试环境。但ubuntu默认界面有点丑了，所以做了简单的美化，美化的主体思路基本都是按B站卟嚟卟嚟这位up主【Linux】GNOME的简单美化视频 ,效果如图
+一个美到窒息的工作环境真的是生产力源泉，每次上课的时候心思都会飞去虚拟机里写代码。
+Prerequisites  系统 最好是ubuntu17.10&#43; ubuntu在最新的17.10中终于抛弃了丑陋的unity，换用了gnome。本次美化使用的主题和扩展都是基于gnome和gnome shell的，所以配合ubuntu17.10食用风味最佳。ubuntu16.04 亲测主题可用，扩展无法使用并效果会打折扣 git vim/nano  具体步骤 接下来是整个系统美化的具体步骤，即 管理工具-主题-图标-光标-扩展-配置 每个工具的安装方法其项目主页都有详细的说明，此处仅作简述（当然如果你运气好的话仅依赖本文也是能够完成美化的=.=）
+外观管理工具  gnome-tweak-tool是一个提供对gnome3深度客制化的工具 首先安装gnome-tweak-tool来对我们后续的主题图标光标进行管理 安装 sudo apt-get install gnome-tweak-tool 如果是unity环境的话 可以使用unity-tweak-tool达到相仿的功能  主题 adapta-gtk-theme  adapta是一款基于Material Design设计风格的主题，共有四款，后缀为-Nokto为暗系主题，后缀为-Eta是对标题栏做了缩窄以节省空间（个人偏爱）
+ 安装
+ PPA安装 添加ppa源-&gt;更新-&gt;apt-get安装
+sudo add-apt-repository ppa:tista/adapta sudo apt-get update sudo apt-get install adapta-gtk-theme  源码编译 具体步骤见github项目文档
+./autogen.sh make sudo make install    图标 la-capitanie  la-capitaine-icon-theme的设计风格混合了macOS和Material Design。由一位加拿大的大一小弟弟Keefer Rourke（看了一眼人家的网站和resume 人生无望）设计并完成。</p>
+  <footer class="post-footer">
+    <a class="read-more" href="http://zkwang.me/blog/post/ubuntu-%E7%BE%8E%E5%8C%96/">Read More →</a>
+  </footer>
+</article>
+
+      
     
     
   </section>
